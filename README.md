@@ -1,4 +1,4 @@
-#Speed Typing Test ⚡
+# Speed Typing Test ⚡
 
 <img width="1664" height="607" alt="image" src="https://github.com/user-attachments/assets/a768feed-84b7-48e7-8c92-a25d794e0f08" />
 
