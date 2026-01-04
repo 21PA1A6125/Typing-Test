@@ -1,10 +1,10 @@
-Speed Typing Test ⚡
+#Speed Typing Test ⚡
 
 <img width="1664" height="607" alt="image" src="https://github.com/user-attachments/assets/a768feed-84b7-48e7-8c92-a25d794e0f08" />
 
 A fun and interactive web application to test and improve your typing speed. Challenge yourself with random quotes and track how fast you can type them accurately!
 🚀 Live Demo
-Check out the live application: Speed Typing Test
+Check out the live application: https://typing-test-beta-pied.vercel.app/
 ✨ Features
 
 Random Quotes: Fetches random inspirational quotes from an API for each test
